@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
             setTimeout(() => {
                 preloader.style.display = 'none';
             }, 500);
-        }, 5000); // 5 seconds delay
+        }, 2700); // 5 seconds delay
     });
 });
